@@ -71,6 +71,7 @@ library
         System.Posix.ByteString
 
         System.Posix.Error
+        System.Posix.Fcntl
         System.Posix.Resource
         System.Posix.Time
         System.Posix.Unistd
