@@ -1,5 +1,9 @@
 -*-changelog-*-
 
+2.7.1.0  Dec 2013
+
+        * New functions `fsync`, `fdatasync`, `posix_fadvise` and `posix_fallocate`
+
 2.7.0.0  Nov 2013
 
         * New `forkProcessWithUnmask` function in the style of `forkIOWithUnmask`
